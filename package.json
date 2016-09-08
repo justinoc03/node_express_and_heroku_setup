@@ -1,0 +1,21 @@
+{
+  "name": "node-express-setup-file",
+  "version": "1.0.0",
+  "description": "simple node express setup project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/app.js"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "template"
+  ],
+  "author": "@justinoc03",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0"
+  }
+}
